@@ -1,10 +1,10 @@
 @font-face {
   font-family: tanha;
-  src: url(/fonts/Tanha.ttf);
+  src: url(fonts/Tanha.ttf);
 }
 @font-face {
   font-family: cinema;
-  src: url(/fonts/Cinema\ Font\ \(\ www.rezagraphic.ir\ \).ttf);
+  src: url(fonts/Cinema\ Font\ \(\ www.rezagraphic.ir\ \).ttf);
 }
 
 *{
@@ -1129,7 +1129,7 @@ section {
 
 
 .aboutbody , .skillsbody , .portfoliobody , .servicesbody , .contactbody{
-  background-image: url(/assets/img/images.png);
+  background-image: url(images.png);
   background-size: cover;
 }
 
@@ -1202,4 +1202,5 @@ section {
     grid-template-columns: auto;
   }
 }
+
 
